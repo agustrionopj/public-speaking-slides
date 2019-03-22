@@ -57,7 +57,7 @@ You  *alongside* them
 
 ## How about us?
 
-{{% fragment %}} know your weakness and strength{{% /fragment %}} <br>
+{{% fragment %}} know your uniqueness and strength{{% /fragment %}} <br>
 {{% fragment %}} manage your anxiety{{% /fragment %}}
 
 ---
@@ -102,7 +102,7 @@ You  *alongside* them
 
 ### Messages are delivered if:
 {{% fragment %}}audience's curiousity are emerged and they want to explore more {{% /fragment %}}<br>
-{{% fragment %}}audience doesn't fully understand what you said but *embrace or agree* (in some degree) on your way of thinking{{% /fragment %}}
+{{% fragment %}}audience probably doesn't fully understand what you said but *embrace or agree* (in some degree) on your way of thinking{{% /fragment %}}
 
 ---
 
